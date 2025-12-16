@@ -1,0 +1,18 @@
+# Eclipse / Java
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.class
+.settings/
+.classpath
+.project
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/Generated.xcconfig
+android/local.properties
